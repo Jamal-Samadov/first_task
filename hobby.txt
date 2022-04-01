@@ -12,5 +12,9 @@ da
 
 make cube rubic
 
+travel a lot
 
+walking		
+
+meet friends
 
